@@ -1,0 +1,2 @@
+include ':libgdx'
+include 'desktop', 'android', 'core'
